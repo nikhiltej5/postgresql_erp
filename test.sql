@@ -1,0 +1,13 @@
+-- select * from student;
+-- select * from student_dept_change;
+-- update student set dept_id = 'COL' where student_id = '2023ELL004';
+-- select * from student_dept_change;
+-- select * from course_eval;
+-- insert into student_courses values ('2023COL001','RDL205','2023-2024',1,9);
+-- select * from student_semester_summary;
+-- delete from course_offers where course_id = 'COL331' and session = '2023-2024' and semester = 1;
+-- select * from student_courses;
+-- update courses set dept_id = 'BOL',course_id = 'BOL'||substring(course_id,4,3) where dept_id = 'COL';
+-- update department set dept_id = 'KYL' where dept_id = 'COL';
+-- select * from courses;	
+-- select * from valid_entry;
